@@ -15,12 +15,3 @@ A network topology simulator that visualizes routing algorithms across mesh netw
 - Real-time network visualization
 - Flask-powered backend for simulation control
 
-## 🚀 Getting Started
-
-git clone https://github.com/gymsync7-wq/mesh-network-simulator.git
-cd mesh-network-simulator
-pip install -r requirements.txt
-python main.py
-
-## 👨‍💻 Author
-GitHub: https://github.com/gymsync7-wq
